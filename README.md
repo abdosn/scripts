@@ -1,6 +1,6 @@
 # batch_scripts
 
-##shut_down_SCRIPT
+## shut_down SCRIPT
 This script forces pc to shutdown after a specicfic file is downloaded
 Follow these instructions
 1- Copy script file into your downloads folder
